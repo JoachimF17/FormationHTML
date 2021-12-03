@@ -1,10 +1,12 @@
 body
 {
+	background-color: lightcyan;
 	font-size: 100%;
 }
 h1
 {
-	font-size: 180%;
+	color: mediumslateblue;
+	font-size: 280%;
 }
 h2
 {
