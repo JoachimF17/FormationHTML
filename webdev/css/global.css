@@ -15,6 +15,7 @@
 
 body
 {
+	font-weight: 3;
 	font-family: "Ubuntu-L", Helvetica, Arial, sans-serif;
 	background-color: lightcyan;
 	font-size: 100%;
@@ -22,13 +23,35 @@ body
 
 h1
 {
-	font-weight: 3;
+	font-weight: 5;
 	color: mediumslateblue;
 	font-size: 280%;
 }
 
 h2
 {
+	font-weight: 4;
 	color:  darkgoldenrod;
 	font-size: 130%;
+}
+
+/*Classes*/
+.font_M
+{
+	font-family: "Ubuntu-M", Helvetica, Arial, sans-serif;
+}
+
+.font_L
+{
+	font-family: "Ubuntu-L", Helvetica, Arial, sans-serif;
+}
+
+.red
+{
+	color: indianred;
+}
+
+.blue
+{
+	color: darkslateblue;
 }
