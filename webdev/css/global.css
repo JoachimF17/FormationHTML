@@ -35,8 +35,13 @@ h2
 	font-size: 130%;
 }
 
+audio, video
+{
+	width: 60%;
+}
+
 /*Classes*/
-.font_M
+.gras
 {
 	font-family: "Ubuntu-M", Helvetica, Arial, sans-serif;
 }
