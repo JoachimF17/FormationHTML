@@ -14,3 +14,22 @@ h1, h2
 {
 	color: slategrey;
 }
+
+/*
+CLASSES
+*/
+.standard_box
+{
+	background-color: lightgreen;
+}
+
+.image_content
+{
+	background-color: yellow;
+	box-sizing: border-box;
+	width: 250px;
+	height: auto;
+	margin: 10px;
+	padding: 20px;
+	border: 6px solid blue;
+}

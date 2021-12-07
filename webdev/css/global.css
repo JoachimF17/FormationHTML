@@ -21,6 +21,16 @@ body
 	font-size: 100%;
 }
 
+header
+{
+	background-color: darkslateblue;
+}
+
+nav
+{
+	padding: 1%;
+}
+
 h1
 {
 	font-weight: 5;
@@ -63,4 +73,28 @@ audio, video
 .black
 {
 	color: black;
+}
+
+.home_image
+{
+	max-width: 100%;
+}
+
+.fruit_image
+{
+	max-width: 20%;
+	float: left;
+}
+
+.header_logo
+{
+	width: 3.5%;
+	padding: 1% 0 0 1%;
+}
+
+.nav_link
+{
+	color: white;
+	text-decoration: none;
+	margin-right: 0.5%;
 }
