@@ -1,0 +1,16 @@
+body
+{
+	background-color: lightgoldenrodyellow;
+}
+
+section
+{
+	background-color: wheat;
+	padding: 2px 1% 2% 1%;
+	margin-bottom: 20px;
+}
+
+h1, h2
+{
+	color: slategrey;
+}
