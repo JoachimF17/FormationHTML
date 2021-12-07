@@ -30,8 +30,7 @@ h1
 
 h2
 {
-	font-weight: 4;
-	color:  darkgoldenrod;
+	color:  darkslateblue;
 	font-size: 130%;
 }
 
@@ -59,4 +58,9 @@ audio, video
 .blue
 {
 	color: darkslateblue;
+}
+
+.black
+{
+	color: black;
 }
